@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T01:56:12.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="J8Bu9h2_T98DevrI7mT6" version="15.9.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-01-11T02:00:34.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="Yk2pB5B7OWftYAKeHDfl" version="15.9.6" type="github" pages="13">
   <diagram id="vYV5MQnyUK1PzUKChAAe" name="Page-4">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3819,7 +3819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iHDguIoJgv4HsaHbtJN-" name="实体">
-    <mxGraphModel dx="769" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mNPsbUNqc3_ZDzNpUb8E-0" />
         <mxCell id="mNPsbUNqc3_ZDzNpUb8E-1" parent="mNPsbUNqc3_ZDzNpUb8E-0" />
@@ -4267,29 +4267,26 @@
         <mxCell id="DDEw00KeslRAaL2sGHPK-103" value="文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
           <mxGeometry x="370" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DDEw00KeslRAaL2sGHPK-104" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
-          <mxGeometry x="686" y="1080" width="80" height="40" as="geometry" />
+        <mxCell id="DDEw00KeslRAaL2sGHPK-105" value="修改时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
+          <mxGeometry x="644" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DDEw00KeslRAaL2sGHPK-105" value="轮播图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
-          <mxGeometry x="596" y="1080" width="80" height="40" as="geometry" />
+        <mxCell id="DDEw00KeslRAaL2sGHPK-106" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
+          <mxGeometry x="554" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DDEw00KeslRAaL2sGHPK-106" value="主图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
-          <mxGeometry x="506" y="1080" width="80" height="40" as="geometry" />
+        <mxCell id="DDEw00KeslRAaL2sGHPK-107" value="文章分类名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
+          <mxGeometry x="194" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DDEw00KeslRAaL2sGHPK-107" value="商品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
-          <mxGeometry x="146" y="1080" width="80" height="40" as="geometry" />
+        <mxCell id="DDEw00KeslRAaL2sGHPK-108" value="文章分类编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
+          <mxGeometry x="104" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DDEw00KeslRAaL2sGHPK-108" value="商品分类编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
-          <mxGeometry x="56" y="1080" width="80" height="40" as="geometry" />
+        <mxCell id="DDEw00KeslRAaL2sGHPK-109" value="是否显示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
+          <mxGeometry x="464" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DDEw00KeslRAaL2sGHPK-109" value="限购数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
-          <mxGeometry x="416" y="1080" width="80" height="40" as="geometry" />
+        <mxCell id="DDEw00KeslRAaL2sGHPK-110" value="文章分类排序" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
+          <mxGeometry x="374" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DDEw00KeslRAaL2sGHPK-110" value="商品分类编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
-          <mxGeometry x="326" y="1080" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DDEw00KeslRAaL2sGHPK-111" value="商品描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
-          <mxGeometry x="236" y="1080" width="80" height="40" as="geometry" />
+        <mxCell id="DDEw00KeslRAaL2sGHPK-111" value="文章分类图标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mNPsbUNqc3_ZDzNpUb8E-1">
+          <mxGeometry x="284" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DDEw00KeslRAaL2sGHPK-112" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="DDEw00KeslRAaL2sGHPK-108" target="DDEw00KeslRAaL2sGHPK-103" parent="mNPsbUNqc3_ZDzNpUb8E-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4331,12 +4328,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="1050" as="sourcePoint" />
             <mxPoint x="556" y="1090" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DDEw00KeslRAaL2sGHPK-119" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="DDEw00KeslRAaL2sGHPK-103" target="DDEw00KeslRAaL2sGHPK-104" parent="mNPsbUNqc3_ZDzNpUb8E-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="1050" as="sourcePoint" />
-            <mxPoint x="646" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
