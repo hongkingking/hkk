@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T12:38:28.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="IHQzX6MSGwhSsDc-2K69" version="17.4.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:38:55.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="k6U4vcMcF2lW3ZUar7pN" version="17.4.0" type="github" pages="18">
   <diagram id="vYV5MQnyUK1PzUKChAAe" name="Page-4">
     <mxGraphModel dx="1209" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1616,10 +1616,10 @@
           <mxGeometry x="298" y="325.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uu1F_fYBz0HVnr3nX_zP-0" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="otdxnDRdXvW4GCkdNAs8-1" vertex="1">
-          <mxGeometry x="164" y="381.25" width="20" height="40" as="geometry" />
+          <mxGeometry x="164" y="399.38" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uu1F_fYBz0HVnr3nX_zP-1" value="管理员（商家）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="otdxnDRdXvW4GCkdNAs8-1" vertex="1">
-          <mxGeometry x="643" y="381.25" width="20" height="40" as="geometry" />
+          <mxGeometry x="643" y="399.38" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uu1F_fYBz0HVnr3nX_zP-2" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="otdxnDRdXvW4GCkdNAs8-1" source="Uu1F_fYBz0HVnr3nX_zP-0" target="Hnby0OmT-UbfeScv09p3-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
