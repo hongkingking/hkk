@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T12:48:00.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="EmfUdrckSpWf1U7B_8vm" version="17.4.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:59:56.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="j44Dv30DTxcCAkHMOfLj" version="17.4.0" type="github" pages="18">
   <diagram id="vYV5MQnyUK1PzUKChAAe" name="Page-4">
     <mxGraphModel dx="1209" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2002,12 +2002,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FGlr87Lpx-CsxsV8fKtS" name="分开-4">
-    <mxGraphModel dx="1209" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G70wcxDr9U7F0K9SfPQH-0" />
         <mxCell id="G70wcxDr9U7F0K9SfPQH-1" parent="G70wcxDr9U7F0K9SfPQH-0" />
         <mxCell id="eVYMzlrig5MTAwEWcBkx-0" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeWidth=1;gradientColor=none;" parent="G70wcxDr9U7F0K9SfPQH-1" vertex="1">
-          <mxGeometry x="292" y="-1120" width="240" height="280" as="geometry" />
+          <mxGeometry x="292" y="-1120" width="240" height="400" as="geometry" />
         </mxCell>
         <mxCell id="eVYMzlrig5MTAwEWcBkx-2" value="活动管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" parent="G70wcxDr9U7F0K9SfPQH-1" vertex="1">
           <mxGeometry x="286" y="-1120" width="90" height="30" as="geometry" />
@@ -2027,10 +2027,10 @@
         <mxCell id="eVYMzlrig5MTAwEWcBkx-7" value="查看试用商品" style="ellipse;whiteSpace=wrap;html=1;" parent="G70wcxDr9U7F0K9SfPQH-1" vertex="1">
           <mxGeometry x="367" y="-975" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eVYMzlrig5MTAwEWcBkx-8" value="发放优惠券" style="ellipse;whiteSpace=wrap;html=1;" parent="G70wcxDr9U7F0K9SfPQH-1" vertex="1">
+        <mxCell id="eVYMzlrig5MTAwEWcBkx-8" value="添加秒杀商品" style="ellipse;whiteSpace=wrap;html=1;" parent="G70wcxDr9U7F0K9SfPQH-1" vertex="1">
           <mxGeometry x="367" y="-935" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eVYMzlrig5MTAwEWcBkx-9" value="领取优惠券" style="ellipse;whiteSpace=wrap;html=1;" parent="G70wcxDr9U7F0K9SfPQH-1" vertex="1">
+        <mxCell id="eVYMzlrig5MTAwEWcBkx-9" value="删除秒杀商品" style="ellipse;whiteSpace=wrap;html=1;" parent="G70wcxDr9U7F0K9SfPQH-1" vertex="1">
           <mxGeometry x="367" y="-895" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eVYMzlrig5MTAwEWcBkx-12" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="G70wcxDr9U7F0K9SfPQH-1" source="eVYMzlrig5MTAwEWcBkx-21" target="eVYMzlrig5MTAwEWcBkx-7" edge="1">
@@ -2039,7 +2039,7 @@
             <mxPoint x="389" y="-985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eVYMzlrig5MTAwEWcBkx-14" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="G70wcxDr9U7F0K9SfPQH-1" source="eVYMzlrig5MTAwEWcBkx-21" target="eVYMzlrig5MTAwEWcBkx-9" edge="1">
+        <mxCell id="eVYMzlrig5MTAwEWcBkx-14" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="G70wcxDr9U7F0K9SfPQH-1" source="eVYMzlrig5MTAwEWcBkx-21" target="SGPexOn9J5yk_UZu9brL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="204" y="-1000" as="sourcePoint" />
             <mxPoint x="389" y="-905" as="targetPoint" />
@@ -2083,6 +2083,15 @@
         </mxCell>
         <mxCell id="eVYMzlrig5MTAwEWcBkx-21" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="G70wcxDr9U7F0K9SfPQH-1" vertex="1">
           <mxGeometry x="163" y="-1000" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SGPexOn9J5yk_UZu9brL-0" value="修改秒杀商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="G70wcxDr9U7F0K9SfPQH-1">
+          <mxGeometry x="367" y="-850" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SGPexOn9J5yk_UZu9brL-1" value="查看秒杀商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="G70wcxDr9U7F0K9SfPQH-1">
+          <mxGeometry x="367" y="-810" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SGPexOn9J5yk_UZu9brL-2" value="购买秒杀商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="G70wcxDr9U7F0K9SfPQH-1">
+          <mxGeometry x="366" y="-770" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
