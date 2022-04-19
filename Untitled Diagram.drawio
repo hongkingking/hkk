@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T12:56:45.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44" etag="XZy-SMNXEjgUuYA88gWr" version="17.4.5" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2022-04-19T12:58:19.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44" etag="TrIMcoUeBQMYjR9-DWPH" version="17.4.5" type="github" pages="17">
   <diagram id="vYV5MQnyUK1PzUKChAAe" name="Page-4">
     <mxGraphModel dx="1209" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5508,26 +5508,26 @@
             <mxPoint x="318.0000000000001" y="610.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZsEOJqVBTM2CY_Vbcei-1" value="Spring AOP&lt;br&gt;Source-level&lt;br&gt;metadata&lt;br&gt;AOP infrastructure" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="EZsEOJqVBTM2CY_Vbcei-1" value="&lt;b&gt;Spring AOP&lt;/b&gt;&lt;br&gt;Source-level&lt;br&gt;metadata&lt;br&gt;AOP infrastructure" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="62" y="49" width="90" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="EZsEOJqVBTM2CY_Vbcei-2" value="Spring ORM&lt;br&gt;Hibemate support&lt;br&gt;IBats support&lt;br&gt;JDO support" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="EZsEOJqVBTM2CY_Vbcei-2" value="&lt;b&gt;Spring ORM&lt;br&gt;&lt;/b&gt;Hibemate support&lt;br&gt;IBats support&lt;br&gt;JDO support" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="162" y="49" width="149" height="100.5" as="geometry" />
         </mxCell>
-        <mxCell id="EZsEOJqVBTM2CY_Vbcei-3" value="Spring DAO&lt;br&gt;Transaction infrastructure&lt;br&gt;JOBC support&lt;br&gt;DAO support" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="EZsEOJqVBTM2CY_Vbcei-3" value="&lt;b&gt;Spring DAO&lt;/b&gt;&lt;br&gt;Transaction infrastructure&lt;br&gt;JOBC support&lt;br&gt;DAO support" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="162" y="162.5" width="149" height="106.5" as="geometry" />
         </mxCell>
-        <mxCell id="EZsEOJqVBTM2CY_Vbcei-4" value="Spring WEB&lt;br&gt;WebApplicatianContext&lt;br&gt;Mutipart resotver&lt;br&gt;Web utilities" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="EZsEOJqVBTM2CY_Vbcei-4" value="&lt;b&gt;Spring WEB&lt;/b&gt;&lt;br&gt;WebApplicatianContext&lt;br&gt;Mutipart resotver&lt;br&gt;Web utilities" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="324" y="49" width="149" height="100.5" as="geometry" />
         </mxCell>
-        <mxCell id="EZsEOJqVBTM2CY_Vbcei-5" value="Spring Context&lt;br&gt;Applcation context&lt;br&gt;UI support&lt;br&gt;Validation&lt;br&gt;&lt;div&gt;JNDL EJB support and&lt;/div&gt;&lt;div&gt;remodeling&lt;/div&gt;&lt;div&gt;Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="EZsEOJqVBTM2CY_Vbcei-5" value="&lt;b&gt;Spring Context&lt;/b&gt;&lt;br&gt;Applcation context&lt;br&gt;UI support&lt;br&gt;Validation&lt;br&gt;&lt;div&gt;JNDL EJB support and&lt;/div&gt;&lt;div&gt;remodeling&lt;/div&gt;&lt;div&gt;Mail&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="322" y="162.5" width="149" height="106.5" as="geometry" />
         </mxCell>
-        <mxCell id="EZsEOJqVBTM2CY_Vbcei-6" value="Spring Web&lt;br&gt;MVC&lt;br&gt;Web MVC&lt;br&gt;Framework&lt;br&gt;Web Views&lt;br&gt;JSP/Veiocity&lt;br&gt;PDF/Export" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="EZsEOJqVBTM2CY_Vbcei-6" value="&lt;b&gt;Spring Web&lt;br&gt;MVC&lt;/b&gt;&lt;br&gt;Web MVC&lt;br&gt;Framework&lt;br&gt;Web Views&lt;br&gt;JSP/Veiocity&lt;br&gt;PDF/Export" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="484" y="49" width="90" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="EZsEOJqVBTM2CY_Vbcei-7" value="Spring DAO&lt;br&gt;Transaction infrastructure&lt;br&gt;JOBC support&lt;br&gt;DAO support" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="62" y="279" width="512" height="106.5" as="geometry" />
+        <mxCell id="EZsEOJqVBTM2CY_Vbcei-7" value="&lt;b&gt;Spring Core&lt;/b&gt;&lt;br&gt;Support&amp;nbsp;utilities&lt;br&gt;Bean container" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="62" y="279" width="512" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
