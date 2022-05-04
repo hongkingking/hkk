@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:41:15.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="yBHxsV2a9JwXH5_lZgX9" version="17.4.6" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2022-05-04T12:22:38.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="_3GAJ3CQUwXlsOlbtq6w" version="17.4.6" type="github" pages="24">
   <diagram id="d952RCIJp8kR5QghxbZp" name="用例图">
-    <mxGraphModel dx="1065" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="V83xSxX5qMVFYjiRU3iE-0" />
         <mxCell id="V83xSxX5qMVFYjiRU3iE-1" parent="V83xSxX5qMVFYjiRU3iE-0" />
@@ -6544,7 +6544,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bcO7ZH3lBqIhuBMHspVY" name="购物车时序图">
-    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6892,6 +6892,38 @@
             <mxPoint x="498" y="1080" as="sourcePoint" />
             <mxPoint x="497.65999999999997" y="862.0000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FnZTJ_vIeyyuhu0FJKA4" name="Page-24">
+    <mxGraphModel dx="950" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PyZlMFH2ZAhIBrLct2fK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyZlMFH2ZAhIBrLct2fK-1" target="PyZlMFH2ZAhIBrLct2fK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PyZlMFH2ZAhIBrLct2fK-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PyZlMFH2ZAhIBrLct2fK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PyZlMFH2ZAhIBrLct2fK-2" target="PyZlMFH2ZAhIBrLct2fK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PyZlMFH2ZAhIBrLct2fK-2" value="保存初始值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PyZlMFH2ZAhIBrLct2fK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PyZlMFH2ZAhIBrLct2fK-3" target="PyZlMFH2ZAhIBrLct2fK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PyZlMFH2ZAhIBrLct2fK-3" value="执行业务逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PyZlMFH2ZAhIBrLct2fK-4" value="当前值和初始值是否一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PyZlMFH2ZAhIBrLct2fK-9" value="更新数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
