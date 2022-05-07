@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T08:13:53.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="3uOmnMRDnOKKPAwi4W92" version="18.0.0" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-05-07T08:14:07.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="53vrWEcj8prnVn8Qfg4s" version="18.0.0" type="github" pages="24">
   <diagram id="d952RCIJp8kR5QghxbZp" name="用例图">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3481,7 +3481,7 @@
         <mxCell id="Yskm2gjClxPW0wSTr6t--6" value="商品管理服务" style="html=1;strokeWidth=1;" parent="Yskm2gjClxPW0wSTr6t--1" vertex="1">
           <mxGeometry x="660" y="110" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yskm2gjClxPW0wSTr6t--7" value="商品" style="html=1;strokeWidth=1;" parent="Yskm2gjClxPW0wSTr6t--1" vertex="1">
+        <mxCell id="Yskm2gjClxPW0wSTr6t--7" value="商品表" style="html=1;strokeWidth=1;" parent="Yskm2gjClxPW0wSTr6t--1" vertex="1">
           <mxGeometry x="800" y="110" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yskm2gjClxPW0wSTr6t--11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=1;" parent="Yskm2gjClxPW0wSTr6t--1" vertex="1">
