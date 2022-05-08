@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T03:07:51.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="9XWVwqzjSOfJBUZLHbog" version="18.0.1" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2022-05-08T03:14:27.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="HAf4BbajGEKZYhkWvC2s" version="18.0.1" type="github" pages="27">
   <diagram id="d952RCIJp8kR5QghxbZp" name="用例图">
     <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6961,15 +6961,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fik6A0nfJRU4kNBJ8v01" name="乐观锁">
-    <mxGraphModel dx="193" dy="100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="322" dy="167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="170" width="730" height="230" as="geometry" />
+          <mxGeometry x="10" y="160" width="790" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="200" width="200" height="190" as="geometry" />
+          <mxGeometry x="20" y="200" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-15">
           <mxGeometry width="200" height="190" as="geometry" />
@@ -7000,32 +7000,32 @@
           <mxGeometry x="30" y="144" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="200" width="200" height="190" as="geometry" />
+          <mxGeometry x="230" y="200" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-16">
-          <mxGeometry width="200" height="190" as="geometry" />
+          <mxGeometry width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-18" value="线程1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-16">
-          <mxGeometry x="11" y="11" width="19" height="40" as="geometry" />
+          <mxGeometry x="9.35" y="11" width="20.65" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-19" value="线程2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-16">
-          <mxGeometry x="11" y="120" width="19" height="40" as="geometry" />
+          <mxGeometry x="9.35" y="120" width="20.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-20" value="共享数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-16">
-          <mxGeometry x="100" y="50" width="60" height="70" as="geometry" />
+          <mxGeometry x="85" y="50" width="51" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Nlq0N_LgjOeihr2T0fhl-16" source="Nlq0N_LgjOeihr2T0fhl-18" target="Nlq0N_LgjOeihr2T0fhl-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="31" />
+              <mxPoint x="110.5" y="31" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-24" value="线程2阻塞" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-16">
-          <mxGeometry x="80" y="144" width="70" height="20" as="geometry" />
+          <mxGeometry x="68" y="144" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="470" y="200" width="200" height="190" as="geometry" />
+          <mxGeometry x="410" y="200" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-25">
           <mxGeometry width="200" height="190" as="geometry" />
@@ -7047,6 +7047,131 @@
         </mxCell>
         <mxCell id="Nlq0N_LgjOeihr2T0fhl-33" value="线程2尝试对数据添加排它锁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-25">
           <mxGeometry x="30" y="144" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="614" y="200" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-45">
+          <mxGeometry x="5" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-37" value="线程2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-45">
+          <mxGeometry x="30" y="63" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-38" value="共享数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-45">
+          <mxGeometry x="109" y="48" width="51" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Nlq0N_LgjOeihr2T0fhl-45" source="Nlq0N_LgjOeihr2T0fhl-37" target="Nlq0N_LgjOeihr2T0fhl-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-40" value="线程2加锁成功，执行更新操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-45">
+          <mxGeometry y="130" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-47" value="悲观锁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="790" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-49" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="470" width="205" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-49">
+          <mxGeometry width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-51" value="线程1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-49">
+          <mxGeometry x="11" y="11" width="19" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-52" value="线程2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-49">
+          <mxGeometry x="11" y="120" width="19" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-53" value="共享数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-49">
+          <mxGeometry x="100" y="50" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Nlq0N_LgjOeihr2T0fhl-49" source="Nlq0N_LgjOeihr2T0fhl-51" target="Nlq0N_LgjOeihr2T0fhl-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="31" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Nlq0N_LgjOeihr2T0fhl-49" source="Nlq0N_LgjOeihr2T0fhl-52" target="Nlq0N_LgjOeihr2T0fhl-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-56" value="线程1获取共享数据，开始操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-49">
+          <mxGeometry x="25" y="11" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-57" value="线程2获取共享数据，开始操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-49">
+          <mxGeometry x="25" y="144" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="470" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-58">
+          <mxGeometry width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-60" value="线程1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-58">
+          <mxGeometry x="9.35" y="11" width="20.65" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-61" value="线程2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-58">
+          <mxGeometry x="9.35" y="120" width="20.65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-62" value="共享数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-58">
+          <mxGeometry x="85" y="50" width="51" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Nlq0N_LgjOeihr2T0fhl-58" source="Nlq0N_LgjOeihr2T0fhl-60" target="Nlq0N_LgjOeihr2T0fhl-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110.5" y="31" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-64" value="线程2阻塞" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-58">
+          <mxGeometry x="68" y="144" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="470" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-65">
+          <mxGeometry width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-67" value="线程1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-65">
+          <mxGeometry x="11" y="11" width="19" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-68" value="线程2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-65">
+          <mxGeometry x="11" y="120" width="19" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-69" value="共享数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-65">
+          <mxGeometry x="100" y="50" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Nlq0N_LgjOeihr2T0fhl-65" source="Nlq0N_LgjOeihr2T0fhl-68" target="Nlq0N_LgjOeihr2T0fhl-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-71" value="线程1事务提交，线程释放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-65">
+          <mxGeometry x="40" y="11" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-72" value="线程2尝试对数据添加排它锁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-65">
+          <mxGeometry x="30" y="144" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-73" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="614" y="470" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-73">
+          <mxGeometry x="5" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-75" value="线程2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-73">
+          <mxGeometry x="30" y="63" width="20.15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-76" value="共享数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-73">
+          <mxGeometry x="109" y="48" width="51" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Nlq0N_LgjOeihr2T0fhl-73" source="Nlq0N_LgjOeihr2T0fhl-75" target="Nlq0N_LgjOeihr2T0fhl-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-78" value="线程2加锁成功，执行更新操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nlq0N_LgjOeihr2T0fhl-73">
+          <mxGeometry y="130" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nlq0N_LgjOeihr2T0fhl-79" value="悲观锁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
