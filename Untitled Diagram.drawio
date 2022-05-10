@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T11:45:36.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="g8ikfTtYVSia7fUndKAW" version="18.0.2" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2022-05-10T11:45:52.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="HFUt5imqe15JhuSV5IKp" version="18.0.2" type="github" pages="27">
   <diagram id="d952RCIJp8kR5QghxbZp" name="用例图">
     <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ahL79ucEZHrEtOadnH0" name="总体用例图">
-    <mxGraphModel dx="834" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JYT1kf64-c7LaWkBKrBF-0" />
         <mxCell id="JYT1kf64-c7LaWkBKrBF-1" parent="JYT1kf64-c7LaWkBKrBF-0" />
@@ -433,7 +433,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yfPwv0QMpeFzUbCRCeDg-20" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="JYT1kf64-c7LaWkBKrBF-1" vertex="1">
-          <mxGeometry x="164" y="760" width="20" height="40" as="geometry" />
+          <mxGeometry x="164" y="735" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yfPwv0QMpeFzUbCRCeDg-21" value="添加话题" style="ellipse;whiteSpace=wrap;html=1;" parent="JYT1kf64-c7LaWkBKrBF-1" vertex="1">
           <mxGeometry x="367" y="845" width="100" height="30" as="geometry" />
@@ -505,7 +505,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="STt5rPIIRfYhFL7eKCvc-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="JYT1kf64-c7LaWkBKrBF-1">
-          <mxGeometry x="164" y="845" width="20" height="40" as="geometry" />
+          <mxGeometry x="164" y="820" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="STt5rPIIRfYhFL7eKCvc-4" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JYT1kf64-c7LaWkBKrBF-1" source="STt5rPIIRfYhFL7eKCvc-3" target="yfPwv0QMpeFzUbCRCeDg-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
