@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T11:45:09.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="RT5urRu9MVcdlDNH256R" version="18.0.2" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2022-05-10T11:45:36.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="g8ikfTtYVSia7fUndKAW" version="18.0.2" type="github" pages="27">
   <diagram id="d952RCIJp8kR5QghxbZp" name="用例图">
     <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -523,7 +523,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="31U83E4WbAX_yT1rVdMo" name="分开-1">
-    <mxGraphModel dx="1008" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="awRcqRVPYjHjT3eMHaby-0" />
         <mxCell id="awRcqRVPYjHjT3eMHaby-1" parent="awRcqRVPYjHjT3eMHaby-0" />
@@ -597,7 +597,7 @@
           <mxGeometry x="643" y="549" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q2WOZ9OIH9d513-WOa3R-2" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="awRcqRVPYjHjT3eMHaby-1" vertex="1">
-          <mxGeometry x="163" y="549" width="20" height="40" as="geometry" />
+          <mxGeometry x="163" y="499" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q2WOZ9OIH9d513-WOa3R-3" value="商品管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" parent="awRcqRVPYjHjT3eMHaby-1" vertex="1">
           <mxGeometry x="305" y="321" width="60" height="30" as="geometry" />
@@ -798,7 +798,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e8zGKvXI6jwT12hQVtBm-0" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="awRcqRVPYjHjT3eMHaby-1">
-          <mxGeometry x="163" y="634" width="20" height="40" as="geometry" />
+          <mxGeometry x="163" y="584" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e8zGKvXI6jwT12hQVtBm-1" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="awRcqRVPYjHjT3eMHaby-1" source="e8zGKvXI6jwT12hQVtBm-0" target="Q2WOZ9OIH9d513-WOa3R-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -816,7 +816,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uEDCd531oqSkDQIUOrKp" name="分开-2">
-    <mxGraphModel dx="576" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="otdxnDRdXvW4GCkdNAs8-0" />
         <mxCell id="otdxnDRdXvW4GCkdNAs8-1" parent="otdxnDRdXvW4GCkdNAs8-0" />
