@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-21T07:59:48.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="uUkbZNeYChww2opUkZzb" version="18.0.2" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2022-05-22T15:41:08.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="dp3ydwu4mde42grlZ_YE" version="18.0.2" type="github" pages="27">
   <diagram id="d952RCIJp8kR5QghxbZp" name="用例图">
     <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3921,9 +3921,6 @@
         <mxCell id="DdSKQdnCJhlEQjuT43Hp-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.172;exitDx=0;exitDy=0;entryX=0;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamondThin;endFill=1;startArrow=open;startFill=0;exitPerimeter=0;" parent="1" source="DdSKQdnCJhlEQjuT43Hp-8" target="DdSKQdnCJhlEQjuT43Hp-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DdSKQdnCJhlEQjuT43Hp-64" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="275" y="690" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="DdSKQdnCJhlEQjuT43Hp-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.003;exitY=0.292;exitDx=0;exitDy=0;entryX=1;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;exitPerimeter=0;" parent="1" source="DdSKQdnCJhlEQjuT43Hp-71" target="DdSKQdnCJhlEQjuT43Hp-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -4562,94 +4559,94 @@
           <mxGeometry x="598" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="343" y="570" width="10" height="80" as="geometry" />
+          <mxGeometry x="343" y="553" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-7" value="1.打开活动管理界面" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="MRMV67_yMiYSSokyeDAl-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="213" y="570" as="sourcePoint" />
+            <mxPoint x="213" y="553" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-8" value="2.显示活动管理界面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="213" y="646" as="targetPoint" />
+            <mxPoint x="213" y="629" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="343" y="700" width="10" height="130" as="geometry" />
+          <mxGeometry x="343" y="668" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-10" value="3.输入新增活动信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="MRMV67_yMiYSSokyeDAl-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="213" y="700" as="sourcePoint" />
+            <mxPoint x="213" y="668" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-11" value="8.显示活动信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.013;exitY=0.972;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="213" y="826" as="targetPoint" />
+            <mxPoint x="213" y="794" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="493" y="710" width="10" height="110" as="geometry" />
+          <mxGeometry x="493" y="678" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-13" value="4.新增活动信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=0.94;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-9" target="MRMV67_yMiYSSokyeDAl-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="363" y="711" as="sourcePoint" />
+            <mxPoint x="363" y="679" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-14" value="7.返回新增活动结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;entryX=1.28;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-12" target="MRMV67_yMiYSSokyeDAl-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="363" y="787" as="targetPoint" />
+            <mxPoint x="363" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="633" y="721" width="10" height="80" as="geometry" />
+          <mxGeometry x="633" y="689" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-16" value="5.新增活动信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="MRMV67_yMiYSSokyeDAl-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503" y="721" as="sourcePoint" />
+            <mxPoint x="503" y="689" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-17" value="6.返回新增活动结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503" y="797" as="targetPoint" />
+            <mxPoint x="503" y="765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="343" y="880" width="10" height="130" as="geometry" />
+          <mxGeometry x="343" y="831" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-22" value="9.输入修改活动信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="MRMV67_yMiYSSokyeDAl-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="213" y="880" as="sourcePoint" />
+            <mxPoint x="213" y="831" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-23" value="14.显示修改结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.013;exitY=0.972;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="213" y="1008" as="targetPoint" />
+            <mxPoint x="213" y="959" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="493" y="890" width="10" height="110" as="geometry" />
+          <mxGeometry x="493" y="841" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-25" value="10.修改活动信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=0.94;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-21" target="MRMV67_yMiYSSokyeDAl-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="363" y="891" as="sourcePoint" />
+            <mxPoint x="363" y="842" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-26" value="13.返回活动修改结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;entryX=1.28;entryY=0.89;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-24" target="MRMV67_yMiYSSokyeDAl-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="363" y="967" as="targetPoint" />
+            <mxPoint x="363" y="918" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="633" y="901" width="10" height="80" as="geometry" />
+          <mxGeometry x="633" y="852" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-28" value="11.修改活动信息" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="MRMV67_yMiYSSokyeDAl-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503" y="901" as="sourcePoint" />
+            <mxPoint x="503" y="852" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-29" value="12.返回活动修改结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503" y="977" as="targetPoint" />
+            <mxPoint x="503" y="928" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-6" target="MRMV67_yMiYSSokyeDAl-1" edge="1">
@@ -4670,48 +4667,48 @@
             <mxPoint x="508" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRMV67_yMiYSSokyeDAl-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="MRMV67_yMiYSSokyeDAl-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.495;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="MRMV67_yMiYSSokyeDAl-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="348" y="700" as="sourcePoint" />
-            <mxPoint x="348" y="650" as="targetPoint" />
+            <mxPoint x="348" y="683" as="sourcePoint" />
+            <mxPoint x="348" y="633" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.532;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="358" y="710" as="sourcePoint" />
-            <mxPoint x="348" y="830" as="targetPoint" />
+            <mxPoint x="358" y="678" as="sourcePoint" />
+            <mxPoint x="348" y="798" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.205;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="347.65000000000055" y="1040" as="sourcePoint" />
-            <mxPoint x="347.84000000000015" y="1010" as="targetPoint" />
+            <mxPoint x="347.65000000000055" y="991" as="sourcePoint" />
+            <mxPoint x="347.84000000000015" y="961" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.411;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="MRMV67_yMiYSSokyeDAl-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="498.02999999999975" y="1040.024" as="sourcePoint" />
-            <mxPoint x="497.7199999999999" y="1000" as="targetPoint" />
+            <mxPoint x="498.02999999999975" y="991.0239999999999" as="sourcePoint" />
+            <mxPoint x="497.7199999999999" y="951" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.48;exitY=-0.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.469;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-24" target="MRMV67_yMiYSSokyeDAl-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="358.32000000000016" y="889.0899999999999" as="sourcePoint" />
-            <mxPoint x="358" y="840" as="targetPoint" />
+            <mxPoint x="358.32000000000016" y="857.0899999999999" as="sourcePoint" />
+            <mxPoint x="358" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.513;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.768;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="MRMV67_yMiYSSokyeDAl-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="639.6400000000003" y="1040.024" as="sourcePoint" />
-            <mxPoint x="389" y="1010.11" as="targetPoint" />
+            <mxPoint x="639.6400000000003" y="991.0239999999999" as="sourcePoint" />
+            <mxPoint x="389" y="961.11" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MRMV67_yMiYSSokyeDAl-46" value="管理员(商家)" style="html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="168" y="480" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MRMV67_yMiYSSokyeDAl-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.014;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="MRMV67_yMiYSSokyeDAl-46" edge="1">
+        <mxCell id="MRMV67_yMiYSSokyeDAl-47" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="MRMV67_yMiYSSokyeDAl-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="208.22000000000025" y="1040.536" as="sourcePoint" />
+            <mxPoint x="208" y="990" as="sourcePoint" />
             <mxPoint x="378.0000000000001" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -4720,8 +4717,8 @@
         </mxCell>
         <mxCell id="qs7yRXsKtuuHCREbiN54-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.489;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MRMV67_yMiYSSokyeDAl-15" target="MRMV67_yMiYSSokyeDAl-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="648" y="731" as="sourcePoint" />
-            <mxPoint x="648" y="530" as="targetPoint" />
+            <mxPoint x="648" y="699" as="sourcePoint" />
+            <mxPoint x="648" y="498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
